@@ -8,6 +8,7 @@ import org.training.transactions.model.TransactionType;
 
 import java.math.BigDecimal;
 
+@SuppressWarnings("unused")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
