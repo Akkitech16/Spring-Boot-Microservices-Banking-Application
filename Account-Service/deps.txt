@@ -1,11 +1,11 @@
 ﻿[INFO] Scanning for projects...
 [INFO] 
-[INFO] ----------------------< org.training:userservice >----------------------
-[INFO] Building User Service 0.0.1-SNAPSHOT
+[INFO] --------------------< org.training:accountService >---------------------
+[INFO] Building Account Service 0.0.1-SNAPSHOT
 [INFO]   from pom.xml
 [INFO] --------------------------------[ jar ]---------------------------------
 [INFO] 
-[INFO] --- dependency:3.3.0:list (default-cli) @ userservice ---
+[INFO] --- dependency:3.3.0:list (default-cli) @ accountService ---
 [INFO] 
 [INFO] The following files have been resolved:
 [INFO]    org.springframework.boot:spring-boot-starter-actuator:jar:2.7.18:compile -- module spring.boot.starter.actuator [auto]
@@ -13,17 +13,15 @@
 [INFO]    org.springframework.boot:spring-boot-starter-validation:jar:2.7.18:compile -- module spring.boot.starter.validation [auto]
 [INFO]    org.springframework.boot:spring-boot-starter-web:jar:2.7.18:compile -- module spring.boot.starter.web [auto]
 [INFO]    org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:3.1.7:compile -- module spring.cloud.starter.netflix.eureka.client (auto)
+[INFO]    org.springframework.cloud:spring-cloud-starter-openfeign:jar:3.1.8:compile -- module spring.cloud.starter.openfeign (auto)
 [INFO]    org.springframework.boot:spring-boot-devtools:jar:2.7.18:runtime (optional) -- module spring.boot.devtools [auto]
 [INFO]    com.mysql:mysql-connector-j:jar:8.0.33:runtime -- module mysql.connector.j (auto)
 [INFO]    org.projectlombok:lombok:jar:1.18.30:compile (optional) -- module lombok
 [INFO]    org.springframework.boot:spring-boot-starter-test:jar:2.7.18:test -- module spring.boot.starter.test [auto]
-[INFO]    org.keycloak:keycloak-admin-client:jar:21.0.1:compile -- module keycloak.admin.client (auto)
-[INFO]    org.springframework.cloud:spring-cloud-starter-openfeign:jar:3.1.8:compile -- module spring.cloud.starter.openfeign (auto)
-[INFO]    org.modelmapper:modelmapper:jar:3.1.1:compile -- module modelmapper (auto)
 [INFO] 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  3.554 s
-[INFO] Finished at: 2026-03-31T15:10:27-04:00
+[INFO] Total time:  3.075 s
+[INFO] Finished at: 2026-03-31T15:08:21-04:00
 [INFO] ------------------------------------------------------------------------

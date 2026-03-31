@@ -1,0 +1,24 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< org.training:apigateway >-----------------------
+[INFO] Building API Gateway 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.3.0:list (default-cli) @ apigateway ---
+[INFO] 
+[INFO] The following files have been resolved:
+[INFO]    org.springframework.boot:spring-boot-starter-actuator:jar:2.7.18:compile -- module spring.boot.starter.actuator [auto]
+[INFO]    org.springframework.cloud:spring-cloud-starter:jar:3.1.7:compile -- module spring.cloud.starter (auto)
+[INFO]    org.springframework.cloud:spring-cloud-starter-gateway:jar:3.1.8:compile -- module spring.cloud.starter.gateway (auto)
+[INFO]    org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:3.1.7:compile -- module spring.cloud.starter.netflix.eureka.client (auto)
+[INFO]    org.springframework.boot:spring-boot-starter-test:jar:2.7.18:test -- module spring.boot.starter.test [auto]
+[INFO]    org.springframework.boot:spring-boot-starter-oauth2-client:jar:2.7.18:compile -- module spring.boot.starter.oauth2.client [auto]
+[INFO]    org.springframework.boot:spring-boot-starter-oauth2-resource-server:jar:2.7.18:compile -- module spring.boot.starter.oauth2.resource.server [auto]
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.197 s
+[INFO] Finished at: 2026-03-31T15:08:47-04:00
+[INFO] ------------------------------------------------------------------------

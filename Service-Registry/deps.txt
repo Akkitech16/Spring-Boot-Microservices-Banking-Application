@@ -1,0 +1,21 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< org.training:serviceregistry >--------------------
+[INFO] Building Service Registry 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.3.0:list (default-cli) @ serviceregistry ---
+[INFO] 
+[INFO] The following files have been resolved:
+[INFO]    org.springframework.boot:spring-boot-starter-actuator:jar:2.7.18:compile -- module spring.boot.starter.actuator [auto]
+[INFO]    org.springframework.boot:spring-boot-starter-web:jar:2.7.18:compile -- module spring.boot.starter.web [auto]
+[INFO]    org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:3.1.7:compile -- module spring.cloud.starter.netflix.eureka.server (auto)
+[INFO]    org.springframework.boot:spring-boot-starter-test:jar:2.7.18:test -- module spring.boot.starter.test [auto]
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.055 s
+[INFO] Finished at: 2026-03-31T15:09:14-04:00
+[INFO] ------------------------------------------------------------------------
